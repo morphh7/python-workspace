@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active_Development-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-A centralized repository for Python development, focusing on backend utilities, automation scripts, and protocol testing. 
+A general Python workspace and portfolio showcasing standalone projects for exploration and testing, serving as a central repository to track development progress, utilities, and application scripts.
 
 ---
 
@@ -40,8 +40,7 @@ A centralized repository for Python development, focusing on backend utilities, 
     │   ├── README.md        
     │   ├── main.py
     │   └── img/             
-    │       ├── palm-tree-1.jpg
-    │       └── palm-tree-2.jpg
+    │       ├── palm-tree.jpg
     └── project_template_2/
         ├── README.md        
         ├── requirements.txt
