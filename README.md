@@ -1,0 +1,48 @@
+# 🐍 Python Development Workspace
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active_Development-success.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
+A centralized repository for Python development, focusing on backend utilities, automation scripts, and protocol testing. 
+
+---
+
+## 🛠️ Prerequisites
+* **Runtime:** Python `3.10` or higher.
+* **Environment:** Virtual environments (`venv`) are required per project.
+
+---
+
+## 📂 Project Catalog
+
+| Project | Description | Core Dependencies | Status |
+| :--- | :--- | :--- | :--- |
+| [NanoControl](./projects/nanocontrol) | Automated desktop assitant to handle your most tedious work | alot... | 🔵 Planned |
+| [EXIF-metadata-extractor](./projects/EXIF-metadata-extractor) | Extract exif meta data info from images, it can reveal info such as location and the device it was taken on | exif | 🟢 Active |
+| [project-name](./projects/project_name) | One-sentence description of the project's utility | lib_1, lib_2, lib_3 | 🔵 Planned |
+
+<!-- Update the status indicators (🟢 Active, 🟡 In Progress, 🔵 Planned) and relative link paths as new modules are initialized. -->
+
+---
+
+## ⚙️ Repository Structure
+
+<details>
+<summary><b>Click to expand directory tree</b></summary>
+
+```yaml
+.
+├── .gitignore               # Global Python ignores
+├── README.md                # Workspace overview
+└── projects/                
+    ├── EXIF-metadata-extractor/         
+    │   ├── README.md        
+    │   ├── main.py
+    │   └── img/             
+    │       ├── palm-tree-1.jpg
+    │       └── palm-tree-2.jpg
+    └── project_template_2/
+        ├── README.md        
+        ├── requirements.txt
+        └── main.py
