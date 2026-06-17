@@ -7,8 +7,6 @@ A small CLI tool that reads the EXIF metadata embedded in image files. It can su
 details such as the camera/device used, capture settings, timestamps, and — when present —
 GPS coordinates, which it converts to decimal degrees and a clickable Google Maps link.
 
-> ⚠️ For educational and authorized use only. Only inspect images you own or have permission to analyze.
-
 ---
 
 ## ✨ Features

@@ -44,3 +44,14 @@ A general Python workspace and portfolio showcasing standalone projects for expl
         ├── README.md        
         ├── requirements.txt
         └── main.py
+```
+
+---
+
+## ⚖️ Disclaimer
+
+This repository exists for **educational purposes** to learn Python through small, approachable projects and tutorials, and to share that with anyone who wants to learn alongside me.
+
+All tools here are provided **as-is**, with no warranty of any kind. They are intended only for lawful use and for inspecting data you own or have explicit permission to access.
+
+I am **not responsible** for how anyone else chooses to use this code. By using, copying, or modifying anything in this repository, you accept full responsibility for your own actions and agree that the author is not liable for any misuse, damage, or legal consequences that result. If you use these tools, you do so at your own risk and in compliance with all applicable laws.
