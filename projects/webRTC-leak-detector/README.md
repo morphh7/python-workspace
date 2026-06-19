@@ -17,26 +17,26 @@ A simple tool which sniffs for unwanted WebRTC connections that are happening, W
 
 ## ✨ Features
 
-* Monitors both TCP and UDP protocols
-* Filters out noise from the payload
-* Looks for a specific magic cookie that WebRTC STUN protocol uses in the payload hex code
-* Alerts if a WebRTC connection was detected
+* Monitors both **TCP** and **UDP** protocols
+* Filters out **noise** from the payload
+* Looks for a specific **magic cookie** that WebRTC STUN protocol uses in the payload hex code
+* Alerts if a **WebRTC** connection was detected
 
 ---
 
 ## 🛠️ Setup
 
 ```bash
-# from projects/webRTC-leak-detector
+# from projects/WebRTC-leak-detector
 
 # 1. Create a virtual environment
-python -m venv .venv-webRTC
+python -m venv .venv-WebRTC
 
 # 2. Activate it
 #   Windows (PowerShell)
-.venv-webRTC\Scripts\Activate.ps1
+.venv-WebRTC\Scripts\Activate.ps1
 #   macOS / Linux
-source .venv-webRTC/bin/activate
+source .venv-WebRTC/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt

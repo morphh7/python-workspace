@@ -4,8 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 A small CLI tool that reads the EXIF metadata embedded in image files. It can surface
-details such as the camera/device used, capture settings, timestamps, and — when present —
-GPS coordinates, which it converts to decimal degrees and a clickable Google Maps link.
+details such as the camera/device used, capture settings, timestamps, and if GPS coordinates present, it converts to decimal degrees and a clickable Google Maps link.
 
 ---
 
