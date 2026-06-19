@@ -12,19 +12,18 @@ A general Python workspace and portfolio showcasing standalone projects for expl
 * **Runtime:** Python `3.10` or higher.
 * **Environment:** Virtual environments (`venv`) are required per project.
 
+> 💡 **Note:** Every subdirectory within `projects/` functions as an independent application containing a dedicated `README.md` (project info, feature breakdowns), standalone virtual environment setups (`requirements.txt`), and execution guides.
+
 ---
 
 ## 📂 Project Catalog
 
-| Project | Description | Core Dependencies | Status |
-| :--- | :--- | :--- | :--- |
-| [NanoControl](./projects/nanocontrol) | Automated desktop assistant to handle your most tedious work | alot... | 🔵 Planned |
-| [EXIF-metadata-extractor](./projects/EXIF-metadata-extractor) | Extract exif meta data info from images, it can reveal info such as location and the device it was taken on | exif, requests | 🟢 Active |
-| [WebRTC-leak-detector](./projects/webRTC-leak-detector) | Detect and alert user if WebRTC connection is active in the network | scapy, sys | 🟡 In Progress |
+#### 🖥️ OSINT & Networking
+* [EXIF-metadata-extractor](./projects/EXIF-metadata-extractor) : Extract metadata details from localized image files.
+* [WebRTC-leak-detector](./projects/webRTC-leak-detector) : Network layer analysis to monitor for WebRTC-based IP leaks.
 
-> 💡 **Note:** Every subdirectory within `projects/` functions as an independent application. Each contains a dedicated `README.md` detailing quick project info, feature breakdowns, isolated virtual environment setup instructions (`requirements.txt`), and CLI usage execution guides.
-
-<!-- DO NOT REMOVE: Update the status indicators (🟢 Active, 🟡 In Progress, 🔵 Planned) and relative link paths as new modules are initialized. -->
+#### ⚙️ Automation & Desktop Utilities
+* [NanoControl](./projects/nanocontrol) : Automated desktop assistant to handle your most tedious work.
 
 ---
 
