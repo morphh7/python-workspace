@@ -20,7 +20,7 @@ A general Python workspace and portfolio showcasing standalone projects for expl
 | :--- | :--- | :--- | :--- |
 | [NanoControl](./projects/nanocontrol) | Automated desktop assistant to handle your most tedious work | alot... | 🔵 Planned |
 | [EXIF-metadata-extractor](./projects/EXIF-metadata-extractor) | Extract exif meta data info from images, it can reveal info such as location and the device it was taken on | exif, requests | 🟢 Active |
-| [WebRTC-leak-detector](./projects/WebRTC-leak-detector) | Detect and alert user if WebRTC connection is active in the network | scapy, sys | 🟡 In Progress |
+| [WebRTC-leak-detector](./projects/webRTC-leak-detector) | Detect and alert user if WebRTC connection is active in the network | scapy, sys | 🟡 In Progress |
 
 > 💡 **Note:** Every subdirectory within `projects/` functions as an independent application. Each contains a dedicated `README.md` detailing quick project info, feature breakdowns, isolated virtual environment setup instructions (`requirements.txt`), and CLI usage execution guides.
 
