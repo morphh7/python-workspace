@@ -38,7 +38,8 @@ A general Python workspace and portfolio showcasing standalone projects for expl
 ├── README.md                
 └── projects/                
     ├── EXIF-metadata-extractor/         
-    │   ├── README.md        
+    │   ├── README.md   
+    │   ├── requirements.txt     
     │   ├── main.py
     │   └── img/             
     │       └── palm-tree.jpg
