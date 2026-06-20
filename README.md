@@ -25,6 +25,9 @@ A general Python workspace and portfolio showcasing standalone projects for expl
 #### ⚙️ Automation & Desktop Utilities
 * [NanoControl](./projects/nanocontrol) : Automated desktop assistant to handle your most tedious work.
 
+#### 🫣 OPSEC & Anonymity
+* [Voice-Changer](./projects/Voice-Changer) : Change your voice by writing altered voice packets and mask your voice.
+
 ---
 
 ## ⚙️ Repository Structure
@@ -39,7 +42,11 @@ A general Python workspace and portfolio showcasing standalone projects for expl
     │   ├── main.py
     │   └── img/             
     │       └── palm-tree.jpg
-    └── WebRTC-leak-detector/
+    ├── WebRTC-leak-detector/
+    │   ├── README.md        
+    │   ├── requirements.txt
+    │   └── main.py
+    └── Voice-Changer/
         ├── README.md        
         ├── requirements.txt
         └── main.py

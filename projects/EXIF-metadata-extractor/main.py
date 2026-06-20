@@ -134,7 +134,7 @@ def main() -> None:
         display_ui()
         choice = input(f"{BOLD}{RED}>{RESET} ").strip()
 
-    print("Exiting...")
+    print(f"\n{BOLD}{RED}!{RESET} Exiting...")
     sys.exit(0)
         
 if __name__ == "__main__":
